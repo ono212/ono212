@@ -40,12 +40,9 @@ Here are some ideas to get you started:
   <br/><br/>
   
   <!--stats & 백준 티어-->
-  
-  <div display="flex" flex-direction="row" height="300px">
-    <img src="https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy" width="55%" height="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&theme=buefy" width="40%" height="100%"/>
-  </div>
-   
+  [![My stats](https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holy_moly)](https://solved.ac/holy_moly/)
 
 
