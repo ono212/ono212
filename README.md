@@ -42,8 +42,8 @@ Here are some ideas to get you started:
   <!--stats & 백준 티어-->
   
   <div display="flex" flex-direction="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy" width="55%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&layout=compact&theme=buefy" width="40%"/>
   </div>
    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holy_moly)](https://solved.ac/holy_moly/)
