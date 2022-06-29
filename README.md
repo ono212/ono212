@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="mailto:onoonoono212@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=onoonoono212@gmail.com"/></a>
   
   <!--기술스택-->
-   ## :hocho::crystal_ball: Skill
+   ## :crystal_ball: Skill
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=yellow">
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   
   <!--stats & 백준 티어-->
   
-  <div display="flex" flex-direction="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy" width="55%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&layout=compact&theme=buefy" width="40%"/>
+  <div display="flex" flex-direction="row" height="300px">
+    <img src="https://github-readme-stats.vercel.app/api?username=ono212&count_private=true&show_icons=true&theme=buefy" width="55%" height="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ono212&theme=buefy" width="40%" height="100%"/>
   </div>
    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holy_moly)](https://solved.ac/holy_moly/)
